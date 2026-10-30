@@ -22,4 +22,5 @@
 		{
 			printf("it is not a prfect number");
 		}
+	 return 0;
 	  }
